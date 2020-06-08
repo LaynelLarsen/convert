@@ -1,3 +1,7 @@
+## 2.2.0
+
+ * Add `CodePage` class for single-byte `Encoding` implementations.
+
 ## 2.1.1
 
  * Fixed a DDC compilation regression for consumers using the Dart 1.x SDK that was introduced in `2.1.0`.
